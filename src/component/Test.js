@@ -37,7 +37,7 @@
 import React, {useState} from 'react';
 
 
-function Test(props) {
+function Test() {
     const [pkr, setPkr] = useState(0);
     const [dollar, setDollar] = useState(0);
 
